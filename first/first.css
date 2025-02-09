@@ -1,0 +1,30 @@
+/* 
+selectors 
+1. universal selector
+2. type selector
+3. class selector
+4. id selector
+5. attribute selector
+6. psudo element
+*/
+/* 
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: aqua;
+} */
+
+
+/* 
+1) type selector
+*/
+/* 
+h1{
+    background-color: red;
+    color: white;
+} */
+
+
+#name{
+    background-color: brown;
+}
